@@ -1,6 +1,5 @@
 # World Atlas
 
-[Live Demo](https://world-atlas-delta.vercel.app/)
 
 ## 🌍 Project Overview
 
