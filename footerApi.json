@@ -1,0 +1,18 @@
+[
+    {
+        "icon":"MdPlace",
+        "title": "Find us",
+        "details" : "Karachi, Sindh"
+    },
+    {
+        "icon":"IoCallSharp",
+        "title": "Call us",
+        "details" : "+92 3366850221"
+    },
+    {
+        "icon":"TbMailPlus",
+        "title": "Mail us",
+        "details" : "hashirahmed868@gmai.com"
+    }
+
+]
